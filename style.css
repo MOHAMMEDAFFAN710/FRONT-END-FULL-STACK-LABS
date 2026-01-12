@@ -1,0 +1,51 @@
+body {
+    font-family: Arial;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f6f8;
+    color: #333;
+}
+
+div {
+    width: 90%;
+    margin: auto;
+    padding: 20px;
+}
+
+h1, h2, h3 {
+    color: #003366;
+}
+
+a {
+    color: #003366;
+    text-decoration: none;
+    margin-right: 15px;
+    font-weight: bold;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+table {
+    width: 100%;
+    border: 1px solid #333;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+th, td {
+    border: 1px solid #333;
+    padding: 10px;
+    text-align: center;
+}
+
+ul {
+    line-height: 1.8;
+}
+
+img {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+}
